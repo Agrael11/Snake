@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player1StartPosition>
+    <X>10</X>
+    <Y>19</Y>
+  </Player1StartPosition>
+  <Player2StartPosition>
+    <X>70</X>
+    <Y>19</Y>
+  </Player2StartPosition>
+  <StartDirection>Right</StartDirection>
+  <StartingSize>5</StartingSize>
+  <NeededSize>5</NeededSize>
+  <MaxPoints>1</MaxPoints>
+  <MaxLives>1</MaxLives>
+  <MaxPoisons>1</MaxPoisons>
+  <SpeedModifier>1</SpeedModifier>
+  <Obstacles>
+    <Rectangle>
+      <X>0</X>
+      <Y>3</Y>
+      <Width>1</Width>
+      <Height>26</Height>
+    </Rectangle>
+    <Rectangle>
+      <X>79</X>
+      <Y>3</Y>
+      <Width>1</Width>
+      <Height>26</Height>
+    </Rectangle>
+    <Rectangle>
+      <X>1</X>
+      <Y>2</Y>
+      <Width>78</Width>
+      <Height>1</Height>
+    </Rectangle>
+    <Rectangle>
+      <X>1</X>
+      <Y>29</Y>
+      <Width>78</Width>
+      <Height>1</Height>
+    </Rectangle>
+  </Obstacles>
+</Level>
